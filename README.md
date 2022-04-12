@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Osmand from Taiwan, and now am frontend developer.
+This is Osmand from Taiwan, and now I am frontend developer.
 <!--
 **OsmandLN/OsmandLN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
